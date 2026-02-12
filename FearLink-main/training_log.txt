@@ -1,0 +1,279 @@
+Loading data...
+Warning: C:\Users\kurno\Downloads\WESAD\WESAD\S1\S1.pkl not found, skipping...
+Loading S2...
+S2: PPG shape=(2430, 50, 1), GSR shape=(2430, 50, 1), ACC shape=(2430, 150, 3), Labels shape=(2430,)
+Loading S3...
+S3: PPG shape=(2596, 50, 1), GSR shape=(2596, 50, 1), ACC shape=(2596, 150, 3), Labels shape=(2596,)
+Loading S4...
+S4: PPG shape=(2568, 50, 1), GSR shape=(2568, 50, 1), ACC shape=(2568, 150, 3), Labels shape=(2568,)
+Loading S5...
+S5: PPG shape=(2502, 50, 1), GSR shape=(2502, 50, 1), ACC shape=(2502, 150, 3), Labels shape=(2502,)
+Loading S6...
+S6: PPG shape=(2827, 50, 1), GSR shape=(2827, 50, 1), ACC shape=(2827, 150, 3), Labels shape=(2827,)
+Loading S7...
+S7: PPG shape=(2094, 50, 1), GSR shape=(2094, 50, 1), ACC shape=(2094, 150, 3), Labels shape=(2094,)
+Loading S8...
+S8: PPG shape=(2185, 50, 1), GSR shape=(2185, 50, 1), ACC shape=(2185, 150, 3), Labels shape=(2185,)
+Loading S9...
+S9: PPG shape=(2088, 50, 1), GSR shape=(2088, 50, 1), ACC shape=(2088, 150, 3), Labels shape=(2088,)
+Loading S10...
+S10: PPG shape=(2197, 50, 1), GSR shape=(2197, 50, 1), ACC shape=(2197, 150, 3), Labels shape=(2197,)
+Loading S11...
+S11: PPG shape=(2092, 50, 1), GSR shape=(2092, 50, 1), ACC shape=(2092, 150, 3), Labels shape=(2092,)
+Warning: C:\Users\kurno\Downloads\WESAD\WESAD\S12\S12.pkl not found, skipping...
+Loading S13...
+S13: PPG shape=(2213, 50, 1), GSR shape=(2213, 50, 1), ACC shape=(2213, 150, 3), Labels shape=(2213,)
+Loading S14...
+S14: PPG shape=(2218, 50, 1), GSR shape=(2218, 50, 1), ACC shape=(2218, 150, 3), Labels shape=(2218,)
+Loading S15...
+S15: PPG shape=(2099, 50, 1), GSR shape=(2099, 50, 1), ACC shape=(2099, 150, 3), Labels shape=(2099,)
+Loading S16...
+S16: PPG shape=(2251, 50, 1), GSR shape=(2251, 50, 1), ACC shape=(2251, 150, 3), Labels shape=(2251,)
+Loading S17...
+S17: PPG shape=(2366, 50, 1), GSR shape=(2366, 50, 1), ACC shape=(2366, 150, 3), Labels shape=(2366,)
+Oversampling Fear class...
+
+=== Data Diagnostics ===
+PPG shape: (45410, 50, 1), GSR: (45410, 50, 1), Accel: (45410, 150, 3), Labels: (45410,)
+PPG min/max: -1643.08, 1772.36
+GSR min/max: 0.04, 15.94
+Accel min/max: -190.02, 173.30
+PPG mean/std: 0.4811, 0.0181
+GSR mean/std: 0.1037, 0.1401
+Accel mean/std: 0.5462, 0.0987
+Class Balance: No-Fear=24275, Fear=21135
+Training model...
+Loading data...
+Warning: C:\Users\kurno\Downloads\WESAD\WESAD\S1\S1.pkl not found, skipping...
+Loading S2...
+S2: PPG shape=(2430, 50, 1), GSR shape=(2430, 50, 1), ACC shape=(2430, 150, 3), Labels shape=(2430,)
+Loading S3...
+S3: PPG shape=(2596, 50, 1), GSR shape=(2596, 50, 1), ACC shape=(2596, 150, 3), Labels shape=(2596,)
+Loading S4...
+S4: PPG shape=(2568, 50, 1), GSR shape=(2568, 50, 1), ACC shape=(2568, 150, 3), Labels shape=(2568,)
+Loading S5...
+S5: PPG shape=(2502, 50, 1), GSR shape=(2502, 50, 1), ACC shape=(2502, 150, 3), Labels shape=(2502,)
+Loading S6...
+S6: PPG shape=(2827, 50, 1), GSR shape=(2827, 50, 1), ACC shape=(2827, 150, 3), Labels shape=(2827,)
+Loading S7...
+S7: PPG shape=(2094, 50, 1), GSR shape=(2094, 50, 1), ACC shape=(2094, 150, 3), Labels shape=(2094,)
+Loading S8...
+S8: PPG shape=(2185, 50, 1), GSR shape=(2185, 50, 1), ACC shape=(2185, 150, 3), Labels shape=(2185,)
+Loading S9...
+S9: PPG shape=(2088, 50, 1), GSR shape=(2088, 50, 1), ACC shape=(2088, 150, 3), Labels shape=(2088,)
+Loading S10...
+S10: PPG shape=(2197, 50, 1), GSR shape=(2197, 50, 1), ACC shape=(2197, 150, 3), Labels shape=(2197,)
+Loading S11...
+S11: PPG shape=(2092, 50, 1), GSR shape=(2092, 50, 1), ACC shape=(2092, 150, 3), Labels shape=(2092,)
+Warning: C:\Users\kurno\Downloads\WESAD\WESAD\S12\S12.pkl not found, skipping...
+Loading S13...
+S13: PPG shape=(2213, 50, 1), GSR shape=(2213, 50, 1), ACC shape=(2213, 150, 3), Labels shape=(2213,)
+Loading S14...
+S14: PPG shape=(2218, 50, 1), GSR shape=(2218, 50, 1), ACC shape=(2218, 150, 3), Labels shape=(2218,)
+Loading S15...
+S15: PPG shape=(2099, 50, 1), GSR shape=(2099, 50, 1), ACC shape=(2099, 150, 3), Labels shape=(2099,)
+Loading S16...
+S16: PPG shape=(2251, 50, 1), GSR shape=(2251, 50, 1), ACC shape=(2251, 150, 3), Labels shape=(2251,)
+Loading S17...
+S17: PPG shape=(2366, 50, 1), GSR shape=(2366, 50, 1), ACC shape=(2366, 150, 3), Labels shape=(2366,)
+Oversampling Fear class...
+
+=== Data Diagnostics ===
+PPG shape: (45410, 50, 1), GSR: (45410, 50, 1), Accel: (45410, 150, 3), Labels: (45410,)
+PPG min/max: -1643.08, 1772.36
+GSR min/max: 0.04, 15.94
+Accel min/max: -190.02, 173.30
+PPG mean/std: 0.4811, 0.0181
+GSR mean/std: 0.1037, 0.1401
+Accel mean/std: 0.5462, 0.0987
+Class Balance: No-Fear=24275, Fear=21135
+Training model...
+Model: "functional"
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Layer (type)                  ┃ Output Shape              ┃         Param # ┃ Connected to               ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ ppg (InputLayer)              │ (None, 50, 1)             │               0 │ -                          │
+├───────────────────────────────┼───────────────────────────┼─────────────────┼────────────────────────────┤
+│ gsr (InputLayer)              │ (None, 50, 1)             │               0 │ -                          │
+├───────────────────────────────┼───────────────────────────┼─────────────────┼────────────────────────────┤
+│ accel (InputLayer)            │ (None, 150, 3)            │               0 │ -                          │
+├───────────────────────────────┼───────────────────────────┼─────────────────┼────────────────────────────┤
+│ conv1d (Conv1D)               │ (None, 50, 16)            │              64 │ ppg[0][0]                  │
+├───────────────────────────────┼───────────────────────────┼─────────────────┼────────────────────────────┤
+│ conv1d_1 (Conv1D)             │ (None, 50, 16)            │              64 │ gsr[0][0]                  │
+├───────────────────────────────┼───────────────────────────┼─────────────────┼────────────────────────────┤
+│ conv1d_2 (Conv1D)             │ (None, 150, 16)           │             160 │ accel[0][0]                │
+├───────────────────────────────┼───────────────────────────┼─────────────────┼────────────────────────────┤
+│ max_pooling1d (MaxPooling1D)  │ (None, 25, 16)            │               0 │ conv1d[0][0]               │
+├───────────────────────────────┼───────────────────────────┼─────────────────┼────────────────────────────┤
+│ max_pooling1d_1               │ (None, 25, 16)            │               0 │ conv1d_1[0][0]             │
+│ (MaxPooling1D)                │                           │                 │                            │
+├───────────────────────────────┼───────────────────────────┼─────────────────┼────────────────────────────┤
+│ max_pooling1d_2               │ (None, 75, 16)            │               0 │ conv1d_2[0][0]             │
+│ (MaxPooling1D)                │                           │                 │                            │
+├───────────────────────────────┼───────────────────────────┼─────────────────┼────────────────────────────┤
+│ flatten (Flatten)             │ (None, 400)               │               0 │ max_pooling1d[0][0]        │
+├───────────────────────────────┼───────────────────────────┼─────────────────┼────────────────────────────┤
+│ flatten_1 (Flatten)           │ (None, 400)               │               0 │ max_pooling1d_1[0][0]      │
+├───────────────────────────────┼───────────────────────────┼─────────────────┼────────────────────────────┤
+│ flatten_2 (Flatten)           │ (None, 1200)              │               0 │ max_pooling1d_2[0][0]      │
+├───────────────────────────────┼───────────────────────────┼─────────────────┼────────────────────────────┤
+│ concatenate (Concatenate)     │ (None, 2000)              │               0 │ flatten[0][0],             │
+│                               │                           │                 │ flatten_1[0][0],           │
+│                               │                           │                 │ flatten_2[0][0]            │
+├───────────────────────────────┼───────────────────────────┼─────────────────┼────────────────────────────┤
+│ dense (Dense)                 │ (None, 32)                │          64,032 │ concatenate[0][0]          │
+├───────────────────────────────┼───────────────────────────┼─────────────────┼────────────────────────────┤
+│ dropout (Dropout)             │ (None, 32)                │               0 │ dense[0][0]                │
+├───────────────────────────────┼───────────────────────────┼─────────────────┼────────────────────────────┤
+│ dense_1 (Dense)               │ (None, 1)                 │              33 │ dropout[0][0]              │
+└───────────────────────────────┴───────────────────────────┴─────────────────┴────────────────────────────┘
+ Total params: 64,353 (251.38 KB)
+ Trainable params: 64,353 (251.38 KB)
+ Non-trainable params: 0 (0.00 B)
+
+
+Classification Report:
+              precision    recall  f1-score   support
+
+     No-Fear       0.84      0.82      0.83      3562
+        Fear       0.81      0.83      0.82      3250
+
+    accuracy                           0.82      6812
+   macro avg       0.82      0.82      0.82      6812
+weighted avg       0.82      0.82      0.82      6812
+
+
+Fear Score: 52.33%
+Calm Score: 3.96%
+Converting to TFLite...
+Model Size: 258.17 KB
+
+TFLite Input Details:
+Input 0: serving_default_accel:0, Shape: [  1 150   3]
+Input 1: serving_default_gsr:0, Shape: [ 1 50  1]
+Input 2: serving_default_ppg:0, Shape: [ 1 50  1]
+TFLite Output Shape: [1 1]
+Running TFLite predictions...
+TFLite Fear Score: 93.54%
+TFLite Calm Score: 92.83%
+Loading data...
+Warning: C:\Users\kurno\Downloads\WESAD\WESAD\S1\S1.pkl not found, skipping...
+Loading S2...
+S2: PPG shape=(2430, 50, 1), GSR shape=(2430, 50, 1), ACC shape=(2430, 150, 3), Labels shape=(2430,)
+Loading S3...
+S3: PPG shape=(2596, 50, 1), GSR shape=(2596, 50, 1), ACC shape=(2596, 150, 3), Labels shape=(2596,)
+Loading S4...
+S4: PPG shape=(2568, 50, 1), GSR shape=(2568, 50, 1), ACC shape=(2568, 150, 3), Labels shape=(2568,)
+Loading S5...
+S5: PPG shape=(2502, 50, 1), GSR shape=(2502, 50, 1), ACC shape=(2502, 150, 3), Labels shape=(2502,)
+Loading S6...
+S6: PPG shape=(2827, 50, 1), GSR shape=(2827, 50, 1), ACC shape=(2827, 150, 3), Labels shape=(2827,)
+Loading S7...
+S7: PPG shape=(2094, 50, 1), GSR shape=(2094, 50, 1), ACC shape=(2094, 150, 3), Labels shape=(2094,)
+Loading S8...
+S8: PPG shape=(2185, 50, 1), GSR shape=(2185, 50, 1), ACC shape=(2185, 150, 3), Labels shape=(2185,)
+Loading S9...
+S9: PPG shape=(2088, 50, 1), GSR shape=(2088, 50, 1), ACC shape=(2088, 150, 3), Labels shape=(2088,)
+Loading S10...
+S10: PPG shape=(2197, 50, 1), GSR shape=(2197, 50, 1), ACC shape=(2197, 150, 3), Labels shape=(2197,)
+Loading S11...
+S11: PPG shape=(2092, 50, 1), GSR shape=(2092, 50, 1), ACC shape=(2092, 150, 3), Labels shape=(2092,)
+Warning: C:\Users\kurno\Downloads\WESAD\WESAD\S12\S12.pkl not found, skipping...
+Loading S13...
+S13: PPG shape=(2213, 50, 1), GSR shape=(2213, 50, 1), ACC shape=(2213, 150, 3), Labels shape=(2213,)
+Loading S14...
+S14: PPG shape=(2218, 50, 1), GSR shape=(2218, 50, 1), ACC shape=(2218, 150, 3), Labels shape=(2218,)
+Loading S15...
+S15: PPG shape=(2099, 50, 1), GSR shape=(2099, 50, 1), ACC shape=(2099, 150, 3), Labels shape=(2099,)
+Loading S16...
+S16: PPG shape=(2251, 50, 1), GSR shape=(2251, 50, 1), ACC shape=(2251, 150, 3), Labels shape=(2251,)
+Loading S17...
+S17: PPG shape=(2366, 50, 1), GSR shape=(2366, 50, 1), ACC shape=(2366, 150, 3), Labels shape=(2366,)
+Oversampling Fear class...
+
+=== Data Diagnostics ===
+PPG shape: (45410, 50, 1), GSR: (45410, 50, 1), Accel: (45410, 150, 3), Labels: (45410,)
+PPG min/max: -1643.08, 1772.36
+GSR min/max: 0.04, 15.94
+Accel min/max: -190.02, 173.30
+PPG mean/std: 0.4811, 0.0181
+GSR mean/std: 0.1037, 0.1401
+Accel mean/std: 0.5462, 0.0987
+Class Balance: No-Fear=24275, Fear=21135
+Training model...
+Model: "functional"
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Layer (type)                  ┃ Output Shape              ┃         Param # ┃ Connected to               ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ ppg (InputLayer)              │ (None, 50, 1)             │               0 │ -                          │
+├───────────────────────────────┼───────────────────────────┼─────────────────┼────────────────────────────┤
+│ gsr (InputLayer)              │ (None, 50, 1)             │               0 │ -                          │
+├───────────────────────────────┼───────────────────────────┼─────────────────┼────────────────────────────┤
+│ accel (InputLayer)            │ (None, 150, 3)            │               0 │ -                          │
+├───────────────────────────────┼───────────────────────────┼─────────────────┼────────────────────────────┤
+│ conv1d (Conv1D)               │ (None, 50, 16)            │              64 │ ppg[0][0]                  │
+├───────────────────────────────┼───────────────────────────┼─────────────────┼────────────────────────────┤
+│ conv1d_1 (Conv1D)             │ (None, 50, 16)            │              64 │ gsr[0][0]                  │
+├───────────────────────────────┼───────────────────────────┼─────────────────┼────────────────────────────┤
+│ conv1d_2 (Conv1D)             │ (None, 150, 16)           │             160 │ accel[0][0]                │
+├───────────────────────────────┼───────────────────────────┼─────────────────┼────────────────────────────┤
+│ max_pooling1d (MaxPooling1D)  │ (None, 25, 16)            │               0 │ conv1d[0][0]               │
+├───────────────────────────────┼───────────────────────────┼─────────────────┼────────────────────────────┤
+│ max_pooling1d_1               │ (None, 25, 16)            │               0 │ conv1d_1[0][0]             │
+│ (MaxPooling1D)                │                           │                 │                            │
+├───────────────────────────────┼───────────────────────────┼─────────────────┼────────────────────────────┤
+│ max_pooling1d_2               │ (None, 75, 16)            │               0 │ conv1d_2[0][0]             │
+│ (MaxPooling1D)                │                           │                 │                            │
+├───────────────────────────────┼───────────────────────────┼─────────────────┼────────────────────────────┤
+│ flatten (Flatten)             │ (None, 400)               │               0 │ max_pooling1d[0][0]        │
+├───────────────────────────────┼───────────────────────────┼─────────────────┼────────────────────────────┤
+│ flatten_1 (Flatten)           │ (None, 400)               │               0 │ max_pooling1d_1[0][0]      │
+├───────────────────────────────┼───────────────────────────┼─────────────────┼────────────────────────────┤
+│ flatten_2 (Flatten)           │ (None, 1200)              │               0 │ max_pooling1d_2[0][0]      │
+├───────────────────────────────┼───────────────────────────┼─────────────────┼────────────────────────────┤
+│ concatenate (Concatenate)     │ (None, 2000)              │               0 │ flatten[0][0],             │
+│                               │                           │                 │ flatten_1[0][0],           │
+│                               │                           │                 │ flatten_2[0][0]            │
+├───────────────────────────────┼───────────────────────────┼─────────────────┼────────────────────────────┤
+│ dense (Dense)                 │ (None, 64)                │         128,064 │ concatenate[0][0]          │
+├───────────────────────────────┼───────────────────────────┼─────────────────┼────────────────────────────┤
+│ dense_1 (Dense)               │ (None, 32)                │           2,080 │ dense[0][0]                │
+├───────────────────────────────┼───────────────────────────┼─────────────────┼────────────────────────────┤
+│ dropout (Dropout)             │ (None, 32)                │               0 │ dense_1[0][0]              │
+├───────────────────────────────┼───────────────────────────┼─────────────────┼────────────────────────────┤
+│ dense_2 (Dense)               │ (None, 1)                 │              33 │ dropout[0][0]              │
+└───────────────────────────────┴───────────────────────────┴─────────────────┴────────────────────────────┘
+ Total params: 130,465 (509.63 KB)
+ Trainable params: 130,465 (509.63 KB)
+ Non-trainable params: 0 (0.00 B)
+
+
+Classification Report:
+              precision    recall  f1-score   support
+
+     No-Fear       0.91      0.90      0.90      3562
+        Fear       0.89      0.90      0.89      3250
+
+    accuracy                           0.90      6812
+   macro avg       0.90      0.90      0.90      6812
+weighted avg       0.90      0.90      0.90      6812
+
+
+Keras Fear Raw (sigmoid): 0.0102
+Keras Calm Raw (sigmoid): 0.9543
+Fear Score: 98.98%
+Calm Score: 4.57%
+Converting to TFLite...
+Model Size: 516.80 KB
+
+TFLite Input Details:
+Input 0: serving_default_accel:0, Shape: [  1 150   3]
+Input 1: serving_default_gsr:0, Shape: [ 1 50  1]
+Input 2: serving_default_ppg:0, Shape: [ 1 50  1]
+TFLite Output Shape: [1 1]
+Running TFLite predictions...
+TFLite Fear Raw (sigmoid): 0.0102
+TFLite Calm Raw (sigmoid): 0.9543
+TFLite Fear Score: 98.98%
+TFLite Calm Score: 4.57%
