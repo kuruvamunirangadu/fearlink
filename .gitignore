@@ -1,0 +1,16 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# Environment folders
+.venv/
+.env/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Misc artifacts
+*.log
+*.tmp
+.DS_Store
