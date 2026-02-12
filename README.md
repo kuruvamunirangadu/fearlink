@@ -108,4 +108,4 @@ The script prints fear scores for both cases, confirming that the lite model res
 
 ## License
 
-Specify project licensing terms here (MIT, Apache-2.0, proprietary, etc.). Update this section once a decision is made.
+This project is released under the MIT License. Review the full text in [LICENSE](LICENSE).
